@@ -1,17 +1,18 @@
 :root {
-    --background: FFFFFF;
+    --background: blue;
 }
 
 html,
 title{
     border-style: double;
     border-radius: 2px;
-    border-color: blueviolet;
+    border-color: AF69EE;
     font-size: medium;
 
 }
 .p1 {
-    font-family: Arial, Helvetica, sans-serif, "Times New Roman", Times, serif, "Lucida Console", "Courier New", monospace;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    color: white;
     
 }
 
