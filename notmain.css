@@ -16,7 +16,7 @@ title{
 }
 
 .align-br {
-    position: fixed;
+    position: absolute;
 
     bottom: 0px;
     right: 0px;
