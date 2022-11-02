@@ -1,12 +1,12 @@
 :root {
-    --background: AF69EE;
+    --background: plum;
 }
 
 html, 
 title{
     border-style: solid;
     border-width: 2px;
-    border-color: blue;
+    border-color: lemonchiffon;
     font-size: medium;
     
 }
