@@ -22,7 +22,9 @@ body {
 }
 
 span.a {
-    display: inline;
+    display: fixed;
+    bottom: 0pt;
+    right: 0pt;
     width: 64px;
     height: 64px;
     padding: 5px;
