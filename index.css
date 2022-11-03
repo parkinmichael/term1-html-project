@@ -6,10 +6,9 @@ title{
     font-size: medium;
     
 }
-.p1 {
+* {
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     color: white;
-
 }
 
 body {
