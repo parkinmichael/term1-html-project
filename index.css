@@ -21,3 +21,9 @@ body {
     background-size: 64px;
 }
 
+span.a {
+    display: inline;
+    width: 64px;
+    height: 64px;
+    padding: 5px;
+}
