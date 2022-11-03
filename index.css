@@ -13,13 +13,6 @@ html, body{
 
 body {
     margin:0;
-
-    background: rgb(63, 8, 110);
-    background-image: url("https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: bottom right;
-    background-size: 64px;
 }
 
 p{
