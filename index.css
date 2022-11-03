@@ -24,11 +24,9 @@ p{
 
 }
 
-span.a {
-    display: fixed;
-    bottom: 0pt;
-    right: 0pt;
-    width: 64px;
-    height: 64px;
-    padding: 5px;
+#code {
+    position: fixed;
+
+    bottom: 0;
+    right: 0;
 }
