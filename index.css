@@ -23,6 +23,7 @@ title{
 
 body {
     margin:0;
+    
     background-color:rgb(53, 0, 114);
 }
 
@@ -41,7 +42,7 @@ p{
 
     padding:1rem;
     margin:1rem;
-    
+
     border-style:dotted;
     border-color:white;
     border-width:2px;
