@@ -23,6 +23,9 @@ body {
 
 p{
     font-size: 14px;
+
+    padding:1rem;
+    margin:1rem;
 }
 
 #code {
