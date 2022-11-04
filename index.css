@@ -16,6 +16,11 @@ html{
     padding:0;
 }
 
+title{
+    padding:1rem;
+    margin:1rem;
+}
+
 body {
     margin:0;
     background-color:rgb(53, 0, 114);
@@ -38,5 +43,5 @@ p{
 
     border-style:dotted;
     border-color:white;
-    border-width:1rem;
+    border-width:2px;
 }
