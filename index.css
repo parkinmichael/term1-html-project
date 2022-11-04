@@ -11,9 +11,12 @@ html, body{
     color: white;
 }
 
+html{
+    margin:0;
+    padding:0;
+}
 
-
-title{
+head{
     padding:1rem;
     margin:1rem;
 }
